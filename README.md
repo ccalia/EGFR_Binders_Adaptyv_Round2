@@ -6,7 +6,9 @@ Cianna Calia - Paesani Lab, UC San Diego
   <img src="./figs/binder.png" alt="ColabFold structure of one of my designs in complex with EGFR Domain III" width="500px" align="middle"/>
 </p>
 
-### Methods write-up:
+[Adaptyv Bio](https://www.adaptyvbio.com/) recently accepted submissions for Round 2 of their Protein Design Competition - a fantastic opportunity for aspiring protein designers like me! I created this repo to share some details of the methods I tried out and what I learned.
+
+### Methods Write-Up:
 
 Each of the sequences I am submitting for Round 2 is a "composite binder" consisting of three components: the solubility tag GB1 (1) at the N-terminus to enhance expression, a pair of distinct minibinder domains generated with BindCraft (2), and two diffused disordered linkers connecting the structured domains. Unlike my Round 1 designs, my Round 2 designs have significant flexibility and contain disordered regions diffused using a novel method. This demonstrates a case where a strategy that increases the odds of success (I hope!) also gives worse inter-chain pae_interaction values.
 
@@ -31,6 +33,13 @@ This figure shows what I'm describing about the pae_interaction:
 <p align="center">
   <img src="./figs/pae.png" alt="ColabFold pae plot for one of my designs in complex with EGFR Domain III" width="700px" align="middle"/>
 </p>
+
+### Files in the Repo
+
+ - **Filter_BindCraft_designs.py:** A script I made to filter designs from BindCraft according to my considerations described above.
+ - **linkers/diffused_seqs_plddt_conditioning:** Contains the original sequences I diffused with pLDDT-conditioning (pLDDT = 30 or 40) after retraining the model from ref 8.
+ - **linkers/linkers_used.fasta:** The linkers I used to connect different minibinders and GB1. I pulled these from the sequences in diffused_seqs_plddt_conditioning.
+ - **ColabFold_pics:** Pictures of ColabFold's predictions for each of my designs.
 
 ### References:
 
