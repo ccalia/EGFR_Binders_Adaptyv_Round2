@@ -1,7 +1,9 @@
 # EGFR_Binders_Adaptyv_Round2
 
+Cianna Calia - Paesani Lab, UC San Diego
+
 <p align="center">
-  <img src="./figs/binder.png" alt="ColabFold structure of one of my designs in complex with EGFR Domain III" width="700px" align="middle"/>
+  <img src="./figs/binder.png" alt="ColabFold structure of one of my designs in complex with EGFR Domain III" width="500px" align="middle"/>
 </p>
 
 ### Methods write-up:
@@ -27,7 +29,7 @@ After putting the full sequences together, I put each one into the ColabFold (10
 This figure shows what I'm describing about the pae_interaction:
 
 <p align="center">
-  <img src="./figs/ipae.png" alt="ColabFold pae plot for one of my designs in complex with EGFR Domain III" width="700px" align="middle"/>
+  <img src="./figs/pae.png" alt="ColabFold pae plot for one of my designs in complex with EGFR Domain III" width="700px" align="middle"/>
 </p>
 
 ### References:
