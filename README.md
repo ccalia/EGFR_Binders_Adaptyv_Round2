@@ -34,7 +34,7 @@ This figure shows what I'm describing about the pae_interaction:
   <img src="./figs/pae.png" alt="ColabFold pae plot for one of my designs in complex with EGFR Domain III" width="700px" align="middle"/>
 </p>
 
-### Files in the Repo
+### Files in the Repo:
 
  - **Filter_BindCraft_designs.py:** A script I made to filter designs from BindCraft according to my considerations described above.
  - **linkers/diffused_seqs_plddt_conditioning:** Contains the original sequences I diffused with pLDDT-conditioning (pLDDT = 30 or 40) after retraining the model from ref 8.
@@ -53,4 +53,6 @@ This figure shows what I'm describing about the pae_interaction:
 (8) Ni, et al. "Generative design of de novo proteins based on secondary-structure constraints using an attention-based diffusion model." Chem 9.7 (2023): 1828-1849.\
 (9) Erdős, et al. "IUPred3: prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation." Nucleic Acids Research 49.W1 (2021): W297-W303.\
 (10) Mirdita, et al. "ColabFold: making protein folding accessible to all." Nature Methods 19.6 (2022): 679-682.\
-(11) Jumper, et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596.7873 (2021): 583-589.
+(11) Jumper, et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596.7873 (2021): 583-589.\
+
+Figures made with UCSF Chimera.
