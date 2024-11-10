@@ -53,6 +53,6 @@ This figure shows what I'm describing about the pae_interaction:
 (8) Ni, et al. "Generative design of de novo proteins based on secondary-structure constraints using an attention-based diffusion model." Chem 9.7 (2023): 1828-1849.\
 (9) Erdős, et al. "IUPred3: prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation." Nucleic Acids Research 49.W1 (2021): W297-W303.\
 (10) Mirdita, et al. "ColabFold: making protein folding accessible to all." Nature Methods 19.6 (2022): 679-682.\
-(11) Jumper, et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596.7873 (2021): 583-589.\
+(11) Jumper, et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596.7873 (2021): 583-589.
 
 Figures made with UCSF Chimera.
