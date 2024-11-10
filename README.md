@@ -10,7 +10,7 @@ Cianna Calia - Paesani Lab, UC San Diego
 
 ### Methods Write-Up:
 
-Each of the sequences I am submitting for Round 2 is a "composite binder" consisting of three components: the solubility tag GB1 (1) at the N-terminus to enhance expression, a pair of distinct minibinder domains generated with BindCraft (2), and two diffused disordered linkers connecting the structured domains. Unlike my Round 1 designs, my Round 2 designs have significant flexibility and contain disordered regions diffused using a novel method. This demonstrates a case where a strategy that increases the odds of success (I hope!) also gives worse inter-chain pae_interaction values.
+Each of the sequences I submitted for Round 2 is a "composite binder" consisting of three components: the solubility tag GB1 (1) at the N-terminus to enhance expression, a pair of distinct minibinder domains generated with BindCraft (2), and two diffused disordered linkers connecting the structured domains. Unlike my Round 1 designs, my Round 2 designs have significant flexibility and contain disordered regions diffused using a novel method. This demonstrates a case where a strategy that may increase the odds of success also gives worse inter-chain pae_interaction values.
 
 I generated several batches of small binders for EGFR's Domain III using the new tool BindCraft, with default filters and default advanced settings. I provided residues 312-470 of chain A of PDB 6ARU (3) as the target, with these hotspots: A348,A350,A382,A412,A417,A438. Only designs with ipTM >= 0.8 were considered for further analysis, and those containing only two helices were discarded. For the 51 minibinders meeting those criteria, I ran NetSolP (4) to predict solubility and usability.
 
