@@ -1,4 +1,4 @@
-# EGFR_Binders_Adaptyv_Round2
+# EGFR Binders: Round 2 of Adaptyv Bio's Protein Design Competition
 
 Cianna Calia - Paesani Lab, UC San Diego
 
@@ -34,14 +34,14 @@ This figure shows what I'm describing about the pae_interaction:
 
 ### References:
 
-(1) Huth, et al. "Design of an expression system for detecting folded protein domains and mapping macromolecular interactions by NMR." Protein Science 6.11 (1997): 2359-2364.
-(2) Pacesa, et al. "BindCraft: one-shot design of functional protein binders." bioRxiv (2024): 2024.09.30.615802.
-(3) Christie, et al. "Structure of Cetuximab Fab mutant in complex with EGFR extracellular domain." (To be published.) PDB 6ARU.
-(4) Thumuluri, et al. "NetSolP: predicting protein solubility in Escherichia coli using language models." Bioinformatics 38.4 (2022): 941-946.
-(5) Cock, et al. "Biopython: freely available Python tools for computational molecular biology and bioinformatics." Bioinformatics 25.11 (2009): 1422-1423.
-(6) Varadi, et al. "AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models." Nucleic Acids Research 50.D1 (2022): D439-D444.
-(7) Tunyasuvunakool, et al. "Highly accurate protein structure prediction for the human proteome." Nature 596.7873 (2021): 590-596.
-(8) Ni, et al. "Generative design of de novo proteins based on secondary-structure constraints using an attention-based diffusion model." Chem 9.7 (2023): 1828-1849.
-(9) Erdős, et al. "IUPred3: prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation." Nucleic Acids Research 49.W1 (2021): W297-W303.
-(10) Mirdita, et al. "ColabFold: making protein folding accessible to all." Nature Methods 19.6 (2022): 679-682.
+(1) Huth, et al. "Design of an expression system for detecting folded protein domains and mapping macromolecular interactions by NMR." Protein Science 6.11 (1997): 2359-2364.\
+(2) Pacesa, et al. "BindCraft: one-shot design of functional protein binders." bioRxiv (2024): 2024.09.30.615802.\
+(3) Christie, et al. "Structure of Cetuximab Fab mutant in complex with EGFR extracellular domain." (To be published.) PDB 6ARU.\
+(4) Thumuluri, et al. "NetSolP: predicting protein solubility in Escherichia coli using language models." Bioinformatics 38.4 (2022): 941-946.\
+(5) Cock, et al. "Biopython: freely available Python tools for computational molecular biology and bioinformatics." Bioinformatics 25.11 (2009): 1422-1423.\
+(6) Varadi, et al. "AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models." Nucleic Acids Research 50.D1 (2022): D439-D444.\
+(7) Tunyasuvunakool, et al. "Highly accurate protein structure prediction for the human proteome." Nature 596.7873 (2021): 590-596.\
+(8) Ni, et al. "Generative design of de novo proteins based on secondary-structure constraints using an attention-based diffusion model." Chem 9.7 (2023): 1828-1849.\
+(9) Erdős, et al. "IUPred3: prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation." Nucleic Acids Research 49.W1 (2021): W297-W303.\
+(10) Mirdita, et al. "ColabFold: making protein folding accessible to all." Nature Methods 19.6 (2022): 679-682.\
 (11) Jumper, et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596.7873 (2021): 583-589.
