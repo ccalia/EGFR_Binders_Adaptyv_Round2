@@ -1,6 +1,6 @@
 # EGFR Binders: Round 2 of Adaptyv Bio's Protein Design Competition
 
-Cianna Calia - Paesani Lab, UC San Diego
+Cianna Calia - [Paesani Lab](https://paesanigroup.ucsd.edu/), UC San Diego
 
 <p align="center">
   <img src="./figs/binder.png" alt="ColabFold structure of one of my designs in complex with EGFR Domain III" width="500px" align="middle"/>
