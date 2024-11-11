@@ -6,7 +6,7 @@ Cianna Calia - [Paesani Lab](https://paesanigroup.ucsd.edu/), UC San Diego
   <img src="./figs/binder.png" alt="ColabFold structure of one of my designs in complex with EGFR Domain III" width="500px" align="middle"/>
 </p>
 
-[Adaptyv Bio](https://www.adaptyvbio.com/) recently accepted submissions for Round 2 of their Protein Design Competition - a fantastic opportunity for aspiring protein designers like me! I created this repo to share some details of the methods I tried out and what I learned.
+[Adaptyv Bio](https://www.adaptyvbio.com/) recently accepted submissions for Round 2 of their Protein Design Competition - a fantastic opportunity for aspiring protein designers like me! I created this README to share some details of the methods I tried out and what I learned.
 
 ### Methods Write-Up:
 
