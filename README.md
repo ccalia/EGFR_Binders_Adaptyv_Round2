@@ -37,7 +37,7 @@ This figure shows what I'm describing about the pae_interaction:
 ### Files in the Repo:
 
  - **Filter_BindCraft_designs.py:** A script I made to filter designs from BindCraft according to my considerations described above.
- - **linkers/diffused_seqs_plddt_conditioning:** Contains the original sequences I diffused with pLDDT-conditioning (pLDDT = 30 or 40) after retraining the model from ref 8.
+ - **linkers/diffused_seqs_plddt_conditioning:** Contains the original sequences I diffused with pLDDT-conditioning (pLDDT = 30 or 40) after retraining model B from ref 8.
  - **linkers/linkers_used.fasta:** The linkers I used to connect different minibinders and GB1. I pulled these from the sequences in diffused_seqs_plddt_conditioning.
  - **ColabFold_pics:** Pictures of ColabFold's predictions for each of my designs.
 
